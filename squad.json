@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "[Chuẩn đầu ra là yêu cầu tối thiểu về kiến thức, kỹ năng, thái độ, trách nhiệm nghề nghiệp mà người học đạt được sau khi hoàn thành chương trình đào tạo.]",
+                    "qas": [
+                        {
+                            "question": "Chuẩn đầu ra là gì?",
+                            "id": "d1c3ccc3-25c7-4ec5-990f-a248fff8f090",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "Tín chỉ học phí là gì?",
+                            "id": "a42f1c88-9448-49bc-a790-c545ff50890f",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
